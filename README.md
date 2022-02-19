@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A passionate full-stack developer, based in Portugal</h3>
 
-- 🔭 Full Stack developer at @apistechnology
-- 🌱 Learning **vue**, **stenciljs** and **GraphQL**
+- 🔭 Full Stack developer at @replai.io
+- 🌱 Learning **GraphQL** and **Go**
 
 <p align="center">
 <!-- <a href="https://twitter.com/imnip10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nip10" height="30" width="30" /></a> -->

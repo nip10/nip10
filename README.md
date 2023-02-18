@@ -3,6 +3,7 @@
 
 - 🔭 Full Stack developer at @replai.io
 - 🌱 Learning **GraphQL** and **Go**
+- 🏗️ Building [WonderMoney](https://wonder.money)
 
 <p align="center">
 <!-- <a href="https://twitter.com/imnip10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nip10" height="30" width="30" /></a> -->

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A passionate full-stack developer, based in Portugal</h3>
 
-- 🔭 Full Stack developer at @replai.io
+- 🔭 Senior Frontend Developer at @swordhealth.com
 - 🌱 Learning **GraphQL** and **Go**
 
 <p align="center">

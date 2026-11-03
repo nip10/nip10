@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">A passionate full-stack developer, based in Portugal</h3>
+### Hi, I'm Diogo 👋
 
-- 🔭 Tech Lead at @swordhealth.com
-- 🌱 Learning **Go**
-- 🚢 Shipping stuff
+Senior Forward Engineer at [Supermodular](https://github.com/SupermodularAI), based in Porto, Portugal.
+I build full-stack TypeScript products, from mobile apps to the backend and infrastructure behind them.
 
-<p align="center">
-<!-- <a href="https://twitter.com/imnip10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nip10" height="30" width="30" /></a> -->
-<a href="https://linkedin.com/in/diogo-cardoso-30a065159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diogo-cardoso-30a065159" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/6241666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6241666" height="30" width="30" /></a>
+[![Website](https://img.shields.io/badge/diogocardoso.dev-111?style=flat&logo=googlechrome&logoColor=white)](https://diogocardoso.dev/?f=gh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogocardoso10/)
+[![X](https://img.shields.io/badge/@imnip10-000?style=flat&logo=x&logoColor=white)](https://x.com/imnip10)
+
+#### What I'm building
+
+| Project | What it is |
+| --- | --- |
+| [**WonderMoney**](https://github.com/wondermoney/wondermoney) | Free, open-source, self-hostable personal finance: accounts, bank sync, budgets, goals and portfolios. [wonder.money](https://wonder.money) |
+| [**OpenValens**](https://github.com/nip10/openvalens) | Open-source, self-hosted health record: labs, vitals, workouts, nutrition and sleep, on your own server. [openvalens.com](https://openvalens.com) |
+| [**Bossbench**](https://github.com/nip10/bossbench) | Open-source dashboard for [pg-boss](https://github.com/timgrove/pg-boss). Drops into Hono, Next.js, Express, Fastify, NestJS and more. |
+| [**Staqk**](https://staqk.app) | Local-first app for tracking GLP-1, peptide, TRT and hormone protocols: doses, vials and labs. |
+
+#### Stats
+
+<p>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="160" alt="Repos per language" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="GitHub stats" />
 </p>
-
-#### 📈 Github Stats
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nip10&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nip10&theme=dark&show_icons=true&layout=compact&hide_border=true" />
-</div>
+<p>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contributions" />
+</p>
